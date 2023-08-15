@@ -12,8 +12,20 @@ body {
     color:  #EEB5E5;
 }
 
-.titulo-destaque {
-    color: white;
+.cabecalho {
+    padding: 2% 0% 0% 10% ;
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__menu__link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color:#EEB5E5; 
 }
 
 .apresentacao {
@@ -36,6 +48,10 @@ body {
     font-family: 'Krona One', sans-serif;
     text-align: center;
    
+}
+
+.titulo-destaque {
+    color: white;
 }
 
 .apresentacao__conteudo__texto {
