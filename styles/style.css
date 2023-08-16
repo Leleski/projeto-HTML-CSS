@@ -26,6 +26,7 @@ body {
     font-size: 22px;
     font-weight: 600;
     color:#EEB5E5; 
+    text-decoration: none;
 }
 
 .apresentacao {
@@ -104,5 +105,14 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 22px;
     font-weight: 400;
+
+}
+
+.foto {
+    border: 3px solid #EEB5E5;
+    border-radius: 9px;
+    display: flow-root;
+    margin: auto;
+    height: fit-content;
 
 }
